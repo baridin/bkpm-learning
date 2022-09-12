@@ -1,0 +1,1 @@
+<img src="/signature_img/{{$content}}" width="130px" height="100px">
